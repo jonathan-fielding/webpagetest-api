@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "commander": "^2.7.1",
-    "csv": "^0.4.1",
+    "csv": "^5.0.0",
     "entities": "^1.1.1",
     "mocha": "^2.2.4",
     "xml2js": "^0.4.6"
